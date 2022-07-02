@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MostafaNegim
 - 👀 I’m interested in open source projects.
-- 🌱 I’m currently learning Kubernetes and PostgreSQL.
+- 🌱 I’m currently learning Kubernetes and Go.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: mostafa.negim@gmail.com
 
