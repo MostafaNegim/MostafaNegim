@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MostafaNegim
+- 👋 Hi, I’m @monegim
 - 👀 I’m interested in open source projects.
-- 🌱 I’m currently learning Kubernetes and Go.
+- 🌱 I’m currently learning Go.
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 How to reach me: mostafa.negim@gmail.com
+<!-- - 📫 How to reach me: mostafa.negim@gmail.com -->
 
 
 
