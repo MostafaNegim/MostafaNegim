@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @monegim
+- 👋 Hi, I’m Mostafa
+🌟 About Me
+I'm a passionate DevOps Engineer with a love for automating workflows, enhancing infrastructure, and improving software delivery processes. With a knack for optimizing systems and ensuring reliability, I enjoy creating solutions that drive efficiency and scalability.
+- 
 - 👀 I’m interested in open-source projects.
 - 🌱 I’m currently learning Go.
 <!--- - 💞️ I’m looking to collaborate on ... --->
@@ -13,7 +16,7 @@
 
 ![](https://komarev.com/ghpvc/?username=monegim)
 
-### Contact Me
+🌍 Let's Connect!
 <!--- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/monegim) --->
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mostafa-negim/)  
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/10059628/)  -->
