@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Mostafa
+👋 Hi, I’m Mostafa
+
 🌟 About Me
+
 I'm a passionate DevOps Engineer with a love for automating workflows, enhancing infrastructure, and improving software delivery processes. With a knack for optimizing systems and ensuring reliability, I enjoy creating solutions that drive efficiency and scalability.
-- 
+
 - 👀 I’m interested in open-source projects.
-- 🌱 I’m currently learning Go.
+- 🌱 I’m currently learning Go and Rust.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!-- - 📫 How to reach me: mostafa.negim@gmail.com -->
 
